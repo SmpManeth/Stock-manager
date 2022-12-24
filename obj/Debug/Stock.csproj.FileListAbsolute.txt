@@ -8,6 +8,7 @@ D:\My Projects\Chathuri Mhotti\Stock\bin\Debug\BouncyCastle.Crypto.dll
 D:\My Projects\Chathuri Mhotti\Stock\bin\Debug\Ubiety.Dns.Core.dll
 D:\My Projects\Chathuri Mhotti\Stock\bin\Debug\Renci.SshNet.dll
 D:\My Projects\Chathuri Mhotti\Stock\bin\Debug\MySql.Data.xml
+D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
 D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.dashboard.resources
 D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.LoginForm.resources
 D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.Properties.Resources.resources
@@ -16,4 +17,3 @@ D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.ca
 D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.csproj.CopyComplete
 D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.exe
 D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.pdb
-D:\My Projects\Chathuri Mhotti\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache

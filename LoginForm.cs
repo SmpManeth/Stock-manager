@@ -1,12 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Stock
@@ -66,8 +59,7 @@ namespace Stock
                         }
                         if (usertype.Equals("ADMIN"))
                         {
-                            MessageBox.Show("Login as Admin", "login Form", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            Dashboard obj = new Dashboard();
+                            dashboard obj = new dashboard();
                             obj.Show();
                             this.Hide();
                         }
@@ -94,9 +86,14 @@ namespace Stock
             }
             if (count >= 3)
             {
-                MessageBox.Show("3 Invalid Login attempts, Sytem is shutting down ", "Login Form", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("3 Invalid Login attempts, Sytem is shutting down Please Contact the Administrator or mailto:smpmaneth@gmail.com ", "Login Form", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Close();
             }
+        }
+
+        private void guna2CircleButton1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
